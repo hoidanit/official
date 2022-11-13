@@ -1,4 +1,4 @@
-@charset "UTF-8";@import"https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900";.vite-super-app{height:100vh;width:100%}.vite-super-app .accordion-body{height:unset!important}.modal-buy .modal-buy-body .icon-unlock{text-align:center;font-size:50px;color:#20ad96}.modal-buy .modal-buy-body .icon-important{color:#20ad96}/*!
+@charset "UTF-8";@import"https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900";.vite-super-app{height:100vh;width:100%;position:relative}.vite-super-app .accordion-body{height:unset!important}.modal-buy .modal-buy-body .icon-unlock{text-align:center;font-size:50px;color:#20ad96}.modal-buy .modal-buy-body .icon-important{color:#20ad96}/*!
 * Bootstrap  v5.2.2 (https://getbootstrap.com/)
 * Copyright 2011-2022 The Bootstrap Authors
 * Copyright 2011-2022 Twitter, Inc.
