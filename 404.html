@@ -9,7 +9,7 @@
     <meta property="og:title" content="Hỏi Dân IT - Beyond Your Coding Skills" />
     <meta property="og:description" content="Ghét Code và Chỉ biết Google ~ Không Chỉ Biết Coding..." />
     <meta property="og:image" content="https://raw.githubusercontent.com/hoidanit/images-hosting/master/eric.png" />
-    <script>
+    <!-- <script>
 
         if (
             window.location.href === 'https://hoidanit.com/donate'
@@ -21,7 +21,7 @@
         else {
             window.location.href = "https://hoidanit.vn";
         }
-    </script>
+    </script> -->
 
 
     <script type="text/javascript">
@@ -53,6 +53,10 @@
             (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
             l.hash
         );
+
+        l.replace("hoidanit.com", "hoidanit.vn")
+        console.log(">>> check 404 : ", l)
+        window.location.href = l;
 
     </script>
 </head>
